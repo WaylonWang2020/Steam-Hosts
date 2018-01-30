@@ -9,6 +9,6 @@ store.steampowered.com
 
 steamcommunity.com
 
-###nslookup store.steampowered.com
+### nslookup store.steampowered.com
 
 "D:\steam\Steam.exe" -community="https://steamcommunity.com"
