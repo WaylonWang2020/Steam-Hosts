@@ -10,8 +10,8 @@ store.steampowered.com
 steamcommunity.com
 ```
 ```
-nslookup store.steampowered.com
+**nslookup store.steampowered.com**
 ```
 ```
-"D:\Program Files (x86)\Steam\Steam.exe" -community="https://steamcommunity.com"
+"D:\Program Files (x86)\Steam\Steam.exe" **-community="https://steamcommunity.com"**
 ```
