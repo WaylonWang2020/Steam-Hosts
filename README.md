@@ -18,6 +18,7 @@ nslookup store.steampowered.com
 ```
 添加hosts
 C:\Windows\System32\drivers\etc\   hosts
+#104.78.74.220 store.steampowered.com
 104.78.74.220 steamcommunity.com
 ```
 ```
@@ -26,5 +27,7 @@ C:\Windows\System32\drivers\etc\   hosts
 ```
 
 商店 http://store.steampowered.com/
+
 社区 https://steamcommunity.com/
+
 搜索好友 https://steamcommunity.com/search/users/
