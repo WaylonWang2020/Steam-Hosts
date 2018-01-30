@@ -1,6 +1,7 @@
 # Steam-Hosts
 In order to use the steam platform normally, we need to modify something
 
+
 ```
 DNS显示与刷新
 ipconfig /displaydns
@@ -18,7 +19,6 @@ nslookup store.steampowered.com
 ```
 添加hosts
 C:\Windows\System32\drivers\etc\   hosts
-#104.78.74.220 store.steampowered.com
 104.78.74.220 steamcommunity.com
 ```
 ```
