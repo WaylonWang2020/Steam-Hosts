@@ -14,15 +14,17 @@ steamcommunity.com
 ```
 ```
 解析 商店Store 的IP
-nslookup store.steampowered.com
+nslookup steamcommunity.com 8.8.8.8
+nslookup store.steampowered.com 8.8.8.8
 ``` 
 ```
 添加 社区community hosts
-C:\Windows\System32\drivers\etc\   hosts
+C:\Windows\System32\drivers\etc\
+                               └hosts
 
-104.78.74.220 steamcommunity.com
-
-这里的IP最好使用上一步解析出来的IP
+31.13.70.20 steamcommunity.com
+23.192.59.22 store.steampowered.com
+这里的IP使用上一步解析出来的IP
 ```
 ```
 修改程序启动参数
