@@ -20,7 +20,7 @@ nslookup store.steampowered.com 8.8.8.8
 ```
 添加 社区community hosts
 C:\Windows\System32\drivers\etc\
-                               └hosts
+                               └─hosts
 
 31.13.70.20 steamcommunity.com
 23.192.59.22 store.steampowered.com
